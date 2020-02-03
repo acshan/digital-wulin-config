@@ -1,0 +1,8 @@
+spring:
+  datasource:
+#    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://sage-mysql.mysql.database.azure.com/game_ai?serverTimezone=UTC&charset=utf8
+    username: sage@sage-mysql
+    password: 9Pk80iop
+    primary:
+      max-active: 10

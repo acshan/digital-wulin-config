@@ -1,4 +1,4 @@
 config:
   api:
-    host: http://dev.com
+    host: http://dev1.com
   
